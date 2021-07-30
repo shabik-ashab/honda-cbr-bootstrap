@@ -1,0 +1,27 @@
+.bg-header{
+    background-color: #264653;
+}
+.btn-lg.btn-custom{
+    background-color: #E76F51;
+}
+.btn.bg-button{
+    background-color: #E76F51;
+}
+.custom-txt{
+    color: #E76F51;
+}
+.grey-scale img {
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+  }
+.grey-scale  img:hover {
+    -webkit-filter: grayscale(0);
+    filter: none;
+  }
+  section{
+      margin-top: 150px;
+      margin-bottom: 100px;
+  }
+  .checked {
+    color: orange;
+  }
